@@ -1,4 +1,4 @@
-Feature:
+Feature: one
   As test feature
   I want to calculate
   Properly
@@ -29,5 +29,3 @@ Feature:
       | start | eat | left |
       |  12   |  5  |  7   |
       |  20   |  5  |  15  |
-
-
