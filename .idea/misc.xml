@@ -39,6 +39,9 @@
     </properties>
   </component>
   <component name="IdProvider" IDEtalkID="0BF9B83257A783448DC40F97320AE4A4" />
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>

@@ -4,7 +4,7 @@ Feature: two
   Properly
 
 
-  Scenario: items count #1
+  Scenario: items count #4
 
     Given user has 100 items
     When user loses 50 items
@@ -12,7 +12,7 @@ Feature: two
     And everybody happy
 
 
-  Scenario: items count #2
+  Scenario: items count #5
 
     Given user has 120 items
     When user loses 70 items
