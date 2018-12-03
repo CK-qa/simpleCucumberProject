@@ -12,7 +12,6 @@ public class MatrixGraphs {
         graph.addEdge(2, 3);
         System.out.println(graph);
     }
-
 }
 
 class AdjacencyMatrixGraph {
@@ -34,8 +33,6 @@ class AdjacencyMatrixGraph {
             }
         }
     }
-
-
 
     private void setNumberOfVertices(int newNumberOfVertices) {
         this._numberOfVertices = newNumberOfVertices;
