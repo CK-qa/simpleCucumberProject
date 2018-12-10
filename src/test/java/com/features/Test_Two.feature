@@ -1,10 +1,10 @@
-Feature: two
+Feature: two.
   As test feature
   I want to calculate
   Properly
 
 
-  Scenario: items count #4
+  Scenario: items count #4.
 
     Given user has 100 items
     When user loses 50 items
