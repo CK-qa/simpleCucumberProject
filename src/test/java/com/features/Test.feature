@@ -4,7 +4,7 @@ Feature: one
   Properly
 
 
-  Scenario: items count #1
+  Scenario: items count #1.
 
     Given user has 100 items
     When user loses 50 items

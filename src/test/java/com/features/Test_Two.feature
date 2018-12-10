@@ -1,4 +1,4 @@
-Feature: two
+Feature: two.
   As test feature
   I want to calculate
   Properly
